@@ -3,5 +3,5 @@
 ### Info about yourself
 
 - bullet list
-- list 2
+- list 2 
 - list
