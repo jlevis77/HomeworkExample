@@ -1,7 +1,9 @@
 # Enhancing Spotify's Recommendation System with Context-Specific Music Recommendations  
 
 **Author:** John Doe 
+
 **Institution:** Savvy Coders
+
 **Active Project Dates:** Jan 1st, 2023 - March 1st, 2023  
 
 ### Summary:
